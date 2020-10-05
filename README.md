@@ -1,4 +1,5 @@
-# caffein_level
+# Caffein level tracker
+A tracker for your workday, optimize your level based on your experience.
 
 <img src='screenshot.png'></src>
 
