@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # caffein_level
-=======
-# caffein_level
+
+<img src='screenshot.png'></src>
+
 
 ## Project setup
 ```
@@ -23,6 +23,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 34c6e57fc716ac5c79065c0ccc0fa5eec53a05a0
