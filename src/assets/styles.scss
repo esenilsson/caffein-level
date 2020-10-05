@@ -1,0 +1,76 @@
+
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+ 
+// Font Variables
+$poppins: 'Poppins', sans-serif;
+$poppins2: 'Poppins2', sans-serif;
+
+
+
+
+.add-coffee {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-top: 30px;
+
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 14px;
+    -webkit-box-shadow: 10px 10px 66px -25pxx rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 66px -25px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 66px -25px rgba(0,0,0,0.75);
+
+    label {
+        vertical-align: middle;
+        display: inline-block;
+        margin: auto;
+        font-family: $poppins2;
+        font-size: 16px;
+    };
+    input {
+        font-family: $poppins2;
+        font-size: 16px;
+    };
+
+}
+
+.lay {
+    display:flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.mainCenter {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    width: 800px;
+}
+
+h1 {
+    font-size: 66px;
+    font-family: $poppins;
+    text-align: center;
+}
+
+#chart {
+    padding: 40px;
+    margin-top:20px;
+    background-color: #fff;
+    border-radius: 14px;
+    -webkit-box-shadow: 10px 10px 66px -25pxx rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 66px -25px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 66px -25px rgba(0,0,0,0.75);
+    font-family: $poppins;
+
+
+}
+
+html {
+    background-color: #EBE8D5;
+}
